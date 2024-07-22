@@ -42,4 +42,4 @@ The Snake game is a classic arcade game that can be implemented using Python and
    - Create a game over screen and add functionality to restart the game.
 
 #### Conclusion
-The Snake game will provide a simple yet engaging gameplay experience. By following the implementation steps and using the Pygame module, the game can be developed efficiently, offering players a nostalgic arcade game experience. For detailed guidance, refer to [GeeksforGeeks' tutorial](https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/).
+The Snake game will provide a simple yet engaging gameplay experience. By following the implementation steps and using the Pygame module, the game can be developed efficiently, offering players a nostalgic arcade game experience.
